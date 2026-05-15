@@ -1,0 +1,31 @@
+{
+  "overview": "A highly immersive, modern, minimal commercial leasing and real estate website for Grow Big Leasing & Real Estate based in Udaipur, Rajasthan. The platform positions the business as Udaipur's modern commercial opportunity network — alive, smooth, conversion-focused — with a hero slideshow, service cards, property showcase with detail modals, animated stats, testimonials, and sticky WhatsApp CTAs.",
+  "features": [
+    "Cinematic hero with 3-4 image slideshow and dual CTAs",
+    "7 service category cards with immersive hover effects",
+    "Property showcase with 6 sample listings and detailed popup modals",
+    "Property modals with image gallery, pricing, description, and WhatsApp CTA",
+    "Business expansion horizontal scroll section",
+    "Animated stats counters (scroll-triggered)",
+    "Why Choose Us icon grid",
+    "4-step process flow with animation",
+    "Glassmorphism testimonials auto-scroll slider",
+    "High-conversion CTA section",
+    "Floating WhatsApp and call buttons",
+    "Sticky mobile bottom CTA bar",
+    "Mobile-first responsive design",
+    "Strict dark/light contrast enforcement"
+  ],
+  "category": "real-estate-commercial-leasing",
+  "tags": [
+    "real-estate",
+    "commercial-leasing",
+    "franchise-spaces",
+    "udaipur",
+    "immersive-ui",
+    "mobile-first",
+    "whatsapp-cta",
+    "property-showcase"
+  ],
+  "last_updated": "2026-05-15T08:40:05.050Z"
+}
